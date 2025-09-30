@@ -1,5 +1,5 @@
 package  workspaces;
-public class NombreEdad {
+public class Ej2 {
     public static void main(String[] args) {
     String name = "Ionut Denis Micu ";
     int edad = 17;
