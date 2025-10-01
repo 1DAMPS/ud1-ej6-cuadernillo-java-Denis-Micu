@@ -1,0 +1,7 @@
+--Validos
+    precioTotal
+--Invalidos
+    2edad, _curso
+    while
+--Validos pero no correctos
+    Nombre
