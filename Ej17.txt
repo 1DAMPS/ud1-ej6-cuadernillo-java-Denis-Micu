@@ -1,0 +1,3 @@
+Reflexiona: ¿por qué es importante elegir el tipo de dato adecuado según el rango de valores que necesitas manejar?
+
+porque así usamos la memoria de forma eficiente y evitamos errores si el valor se pasa del límite que puede guardar.
